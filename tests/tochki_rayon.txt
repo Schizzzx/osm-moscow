@@ -1,0 +1,7 @@
+vnutri1 10 10
+v_dyrke 50 50
+vnutri_vtoroy_kusok 250 50
+mezhdu_kuskami 150 50
+sleva -5 50
+vnutri_na_urovne_niza_dyrki 10 40
+vnutri_na_urovne_verha_dyrki 70 60
